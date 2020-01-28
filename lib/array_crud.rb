@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   array
-  remove_first = array.shift
+  array.shift
   
 end
 
